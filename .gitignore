@@ -1,0 +1,24 @@
+# Python-related files
+*.pyc
+*.pyo
+__pycache__/
+*.env
+.env
+
+# Spyder project files
+.spyproject/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment folders
+venv/
+.env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
